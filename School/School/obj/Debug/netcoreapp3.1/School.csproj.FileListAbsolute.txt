@@ -1,0 +1,11 @@
+C:\Универ\Программирование\Курсовая\School\School\bin\Debug\netcoreapp3.1\School.exe
+C:\Универ\Программирование\Курсовая\School\School\bin\Debug\netcoreapp3.1\School.deps.json
+C:\Универ\Программирование\Курсовая\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+C:\Универ\Программирование\Курсовая\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+C:\Универ\Программирование\Курсовая\School\School\bin\Debug\netcoreapp3.1\School.dll
+C:\Универ\Программирование\Курсовая\School\School\bin\Debug\netcoreapp3.1\School.pdb
+C:\Универ\Программирование\Курсовая\School\School\obj\Debug\netcoreapp3.1\School.csprojAssemblyReference.cache
+C:\Универ\Программирование\Курсовая\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\Универ\Программирование\Курсовая\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\Универ\Программирование\Курсовая\School\School\obj\Debug\netcoreapp3.1\School.dll
+C:\Универ\Программирование\Курсовая\School\School\obj\Debug\netcoreapp3.1\School.pdb
